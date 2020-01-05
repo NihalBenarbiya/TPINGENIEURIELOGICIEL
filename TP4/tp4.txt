@@ -1,0 +1,9 @@
+autre logiciel de generation de documentation :Docutils,Visdoc,roxygen,Sphinx...
+
+interet de la documentation :
+L'avantage d'un générateur de documentation à partir du code source est la proximité du code source avec sa documentation codée sous forme de commentaires.
+ Le programmeur peut alors l'écrire en se référant à son code, et peut utiliser les mêmes outils que ceux qu'il a utilisés pour développer le code source,
+ pour faire la documentation. Cela rend beaucoup plus facile la mise à jour de la documentation.Enfin elle peut permettre d’améliorer la communication 
+entre différents services (développeur et commercial par exemple). Car il ne faut pas oublier que si elle est souvent à destination de l’équipe technique 
+(de développement) elle peut aussi permettre l’information de services transverses et d’éviter cette charge au chef de projet: 
+« Quelles sont les fonctionnalités de la dernière version? », « Quand la version 2.1.3 sera disponible? » etc …
